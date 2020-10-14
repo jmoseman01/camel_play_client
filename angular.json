@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "camel-play3-client"
+    }
+  },
+  "defaultProject": "camel-play3-client",
+  "cli": {
+    "analytics": "b9db7046-7c94-4fb2-9ba6-971acbc21f98"
+  }
 }

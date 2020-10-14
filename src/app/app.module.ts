@@ -3,10 +3,12 @@ import { NgModule } from '@angular/core';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { AtomspherePlayComponent } from './atomsphere-play/atomsphere-play.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    AtomspherePlayComponent
   ],
   imports: [
     BrowserModule,
